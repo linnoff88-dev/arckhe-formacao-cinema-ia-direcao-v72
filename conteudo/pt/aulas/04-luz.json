@@ -5,7 +5,7 @@
   "titulo": "Luz, cor e atmosfera: o look decidido antes do prompt",
   "titulo_curto": "Luz, cor e atmosfera",
   "minutos": 16,
-  "lead": "\"Luz cinematográfica\" no prompt não diz nada: o gerador precisa saber de onde a luz vem, de que lado bate, se é dura ou suave e que cor tem. Nesta aula você decide a luz da sua cena e escreve o cartão de look, o trecho fixo que vai em todo prompt dela.",
+  "lead": "\"Luz cARCKHÉtográfica\" no prompt não diz nada: o gerador precisa saber de onde a luz vem, de que lado bate, se é dura ou suave e que cor tem. Nesta aula você decide a luz da sua cena e escreve o cartão de look, o trecho fixo que vai em todo prompt dela.",
   "objetivo": "decidir fonte, direção, qualidade, temperatura e atmosfera da luz da sua cena e escrever o cartão de look que entra em todo prompt.",
   "competencias": [
     "motivar-a-luz",
@@ -77,7 +77,7 @@
           "titulo": "Tire luz antes de pôr",
           "sub": "sombra é profundidade",
           "texto": [
-            "Iluminar tudo deixa a imagem plana: tudo visível, nada sentido. Bom cinema também é decidir onde a luz não chega.",
+            "Iluminar tudo deixa a imagem plana: tudo visível, nada sentido. Bom cARCKHÉ também é decidir onde a luz não chega.",
             "No set, a bandeira preta que bloqueia luz se chama negative fill. No prompt, peça sombra com palavras: low-key, sombras profundas, um lado do rosto no escuro."
           ]
         },
@@ -85,7 +85,7 @@
           "titulo": "Nomeie a fonte",
           "sub": "luz motivada",
           "texto": [
-            "Troque \"iluminação cinematográfica\" por uma fonte e um lado: \"luz do forno vinda da direita\", \"brilho frio de uma tela\".",
+            "Troque \"iluminação cARCKHÉtográfica\" por uma fonte e um lado: \"luz do forno vinda da direita\", \"brilho frio de uma tela\".",
             "A fonte nomeada dá credibilidade e também amarra direção e temperatura de uma vez."
           ],
           "exemplo": {
@@ -172,7 +172,7 @@
       ],
       "ok": "OK: cartão de look com {n} campos",
       "exemplo": "Fonte: a luz do forno e duas lâmpadas da bancada; lá fora, só um poste\nDireção: lateral, vinda do forno à direita; contraluz da vitrine nos planos da rua\nQualidade: suave na bancada, dura no rosto quando o forno abre\nTemperatura: quente dentro da padaria, fria na rua escura\nContraste: alto, low-key; a rua quase preta\nPaleta: azul-escuro da rua, cobre do forno, branco da farinha\nAtmosfera: vapor do forno e farinha no ar, visíveis no feixe de luz",
-      "exemplo_errado": "Luz: bonita e cinematográfica\nPaleta: cores vivas\nAtmosfera: mágica"
+      "exemplo_errado": "Luz: bonita e cARCKHÉtográfica\nPaleta: cores vivas\nAtmosfera: mágica"
     },
     {
       "tipo": "pratica",
@@ -201,7 +201,7 @@
       "sub": "Quatro perguntas. A explicação aparece depois de cada resposta.",
       "perguntas": [
         {
-          "p": "Por que \"iluminação bonita e cinematográfica\" no prompt costuma sair plana?",
+          "p": "Por que \"iluminação bonita e cARCKHÉtográfica\" no prompt costuma sair plana?",
           "opcoes": [
             "Porque o gerador ignora as palavras sobre luz no prompt.",
             "Porque não diz a fonte, o lado nem onde fica a sombra.",
@@ -278,7 +278,7 @@
         },
         {
           "t": "Curso 2 · Produção: cor, grading e film look (aula 4)",
-          "href": "https://inematds.github.io/formacao-cinema-ia-producao-v72/"
+          "href": "https://linnoff88-dev.github.io/
         }
       ]
     }

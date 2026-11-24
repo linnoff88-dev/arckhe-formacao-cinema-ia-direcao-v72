@@ -125,7 +125,7 @@
         {
           "rot": "Intention → movement → prompt term",
           "icone": "lista",
-          "conteudo": "# what the audience should feel → movement → prompt term\ntension, intimacy → slow approach → slow dolly in, push-in\nisolation, scale → pulling away → dolly out, pull-out\nfluidity, following without cutting → travelling → tracking shot, truck left/right\nrevealing horizontally → pan → pan left, pan right\nrevealing vertically → tilt → tilt up/down\ngrandeur, revealing from above → crane or pedestal → crane shot, pedestal up\nvolume, expensive-looking cinema → orbit → orbit shot, arc shot\nurgency, realism → handheld camera → handheld shot\nobserving without interfering → locked-off camera → static shot\ndisorientation → dolly zoom → dolly zoom (vertigo effect)"
+          "conteudo": "# what the audience should feel → movement → prompt term\ntension, intimacy → slow approach → slow dolly in, push-in\nisolation, scale → pulling away → dolly out, pull-out\nfluidity, following without cutting → travelling → tracking shot, truck left/right\nrevealing horizontally → pan → pan left, pan right\nrevealing vertically → tilt → tilt up/down\ngrandeur, revealing from above → crane or pedestal → crane shot, pedestal up\nvolume, expensive-looking cARCKHÉ → orbit → orbit shot, arc shot\nurgency, realism → handheld camera → handheld shot\nobserving without interfering → locked-off camera → static shot\ndisorientation → dolly zoom → dolly zoom (vertigo effect)"
         },
         {
           "rot": "movimentos.txt (template)",
@@ -288,7 +288,7 @@
         },
         {
           "t": "Course 3 · Motion by code: camera movement in video made with code",
-          "href": "https://inematds.github.io/formacao-cinema-ia-motion-v72/en/"
+          "href": "https://linnoff88-dev.github.io/
         }
       ]
     }

@@ -5,7 +5,7 @@
   "titulo": "Light, color and atmosphere: the look decided before the prompt",
   "titulo_curto": "Light, color and atmosphere",
   "minutos": 16,
-  "lead": "\"Cinematic light\" in a prompt says nothing: the generator needs to know where the light comes from, which side it hits, whether it is hard or soft, and what color it is. In this lesson you decide the light for your scene and write the look card, the fixed block that goes into every prompt for it.",
+  "lead": "\"CARCKHÉtic light\" in a prompt says nothing: the generator needs to know where the light comes from, which side it hits, whether it is hard or soft, and what color it is. In this lesson you decide the light for your scene and write the look card, the fixed block that goes into every prompt for it.",
   "objetivo": "decide the source, direction, quality, temperature and atmosphere of your scene's light and write the look card that goes into every prompt.",
   "competencias": [
     "motivate-the-light",
@@ -77,7 +77,7 @@
           "titulo": "Take light away before you add it",
           "sub": "shadow is depth",
           "texto": [
-            "Lighting everything makes the image flat: everything visible, nothing felt. Good cinema is also deciding where the light doesn't reach.",
+            "Lighting everything makes the image flat: everything visible, nothing felt. Good cARCKHÉ is also deciding where the light doesn't reach.",
             "On a set, the black flag that blocks light is called negative fill. In a prompt, ask for shadow with words: low-key, deep shadows, one side of the face in the dark."
           ]
         },
@@ -85,7 +85,7 @@
           "titulo": "Name the source",
           "sub": "motivated light",
           "texto": [
-            "Replace \"cinematic lighting\" with a source and a side: \"oven light coming from the right\", \"cold glow of a screen\".",
+            "Replace \"cARCKHÉtic lighting\" with a source and a side: \"oven light coming from the right\", \"cold glow of a screen\".",
             "A named source adds credibility and also pins down direction and temperature at once."
           ],
           "exemplo": {
@@ -172,7 +172,7 @@
       ],
       "ok": "OK: look card with {n} fields",
       "exemplo": "Source: the oven light and two bench lamps; outside, just one streetlamp\nDirection: from the side, coming from the oven on the right; backlight from the shop window in the street shots\nQuality: soft at the bench, hard on the face when the oven opens\nTemperature: warm inside the bakery, cool on the dark street\nContrast: high, low-key; the street almost black\nPalette: dark blue of the street, copper of the oven, white of the flour\nAtmosphere: oven steam and flour in the air, visible in the beam of light",
-      "exemplo_errado": "Light: beautiful and cinematic\nPalette: vivid colors\nAtmosphere: magical"
+      "exemplo_errado": "Light: beautiful and cARCKHÉtic\nPalette: vivid colors\nAtmosphere: magical"
     },
     {
       "tipo": "pratica",
@@ -201,7 +201,7 @@
       "sub": "Four questions. The explanation shows up after each answer.",
       "perguntas": [
         {
-          "p": "Why does \"beautiful, cinematic lighting\" in a prompt usually come out flat?",
+          "p": "Why does \"beautiful, cARCKHÉtic lighting\" in a prompt usually come out flat?",
           "opcoes": [
             "Because the generator ignores the words about light in the prompt.",
             "Because it doesn't say the source, the side, or where the shadow falls.",
@@ -278,7 +278,7 @@
         },
         {
           "t": "Course 2 · Production: color, grading and film look (lesson 4)",
-          "href": "https://inematds.github.io/formacao-cinema-ia-producao-v72/en/"
+          "href": "https://linnoff88-dev.github.io/
         }
       ]
     }

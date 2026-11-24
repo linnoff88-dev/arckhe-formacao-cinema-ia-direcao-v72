@@ -5,7 +5,7 @@
   "titulo": "Luz, color y atmósfera: el look decidido antes del prompt",
   "titulo_curto": "Luz, color y atmósfera",
   "minutos": 16,
-  "lead": "\"Luz cinematográfica\" en el prompt no dice nada: el generador necesita saber de dónde viene la luz, de qué lado pega, si es dura o suave y qué color tiene. En esta clase decides la luz de tu escena y escribes la tarjeta de look, el fragmento fijo que va en todo prompt de ella.",
+  "lead": "\"Luz cARCKHÉtográfica\" en el prompt no dice nada: el generador necesita saber de dónde viene la luz, de qué lado pega, si es dura o suave y qué color tiene. En esta clase decides la luz de tu escena y escribes la tarjeta de look, el fragmento fijo que va en todo prompt de ella.",
   "objetivo": "decidir fuente, dirección, calidad, temperatura y atmósfera de la luz de tu escena y escribir la tarjeta de look que entra en todo prompt.",
   "competencias": [
     "motivar-a-luz",
@@ -85,7 +85,7 @@
           "titulo": "Nombra la fuente",
           "sub": "luz motivada",
           "texto": [
-            "Cambia \"iluminación cinematográfica\" por una fuente y un lado: \"luz del horno que viene de la derecha\", \"brillo frío de una pantalla\".",
+            "Cambia \"iluminación cARCKHÉtográfica\" por una fuente y un lado: \"luz del horno que viene de la derecha\", \"brillo frío de una pantalla\".",
             "La fuente nombrada da credibilidad y, además, fija la dirección y la temperatura de una sola vez."
           ],
           "exemplo": {
@@ -172,7 +172,7 @@
       ],
       "ok": "OK: tarjeta de look con {n} campos",
       "exemplo": "Fuente: la luz del horno y dos lámparas del mesón; afuera, solo un poste\nDirección: lateral, desde el horno a la derecha; contraluz de la vitrina en los planos de la calle\nCalidad: suave en el mesón, dura en el rostro cuando se abre el horno\nTemperatura: cálida dentro de la panadería, fría en la calle oscura\nContraste: alto, low-key; la calle casi negra\nPaleta: azul oscuro de la calle, cobre del horno, blanco de la harina\nAtmósfera: vapor del horno y harina en el aire, visibles en el haz de luz",
-      "exemplo_errado": "Luz: bonita y cinematográfica\nPaleta: colores vivos\nAtmósfera: mágica"
+      "exemplo_errado": "Luz: bonita y cARCKHÉtográfica\nPaleta: colores vivos\nAtmósfera: mágica"
     },
     {
       "tipo": "pratica",
@@ -201,7 +201,7 @@
       "sub": "Cuatro preguntas. La explicación aparece después de cada respuesta.",
       "perguntas": [
         {
-          "p": "¿Por qué \"iluminación bonita y cinematográfica\" en el prompt suele salir plana?",
+          "p": "¿Por qué \"iluminación bonita y cARCKHÉtográfica\" en el prompt suele salir plana?",
           "opcoes": [
             "Porque el generador ignora las palabras sobre luz en el prompt.",
             "Porque no dice la fuente, el lado ni dónde queda la sombra.",
@@ -278,7 +278,7 @@
         },
         {
           "t": "Curso 2 · Producción: color, grading y film look (clase 4)",
-          "href": "https://inematds.github.io/formacao-cinema-ia-producao-v72/es/"
+          "href": "https://linnoff88-dev.github.io/
         }
       ]
     }

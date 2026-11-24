@@ -1,6 +1,6 @@
 # PLANO — Curso 0 · Direção: pensar como diretor antes de gerar
 
-Formação Cinema com IA (curso 0 de 6), INEMA Learning v7.2, PT/EN/ES. Público: criadores, professores e quem faz vídeo para empresa; **sem terminal**. Escrito em 19/10/2026, antes do conteúdo.
+Formação CARCKHÉ com IA (curso 0 de 6), ARCKHÉ Learning v7.2, PT/EN/ES. Público: criadores, professores e quem faz vídeo para empresa; **sem terminal**. Escrito em 19/10/2026, antes do conteúdo.
 
 **Como se prova a prática (cursos 0–2):** toda prática gera um arquivo de texto (cartão, escada, lista de movimentos, cartão de look, quadros, ficha, decupagem, storyboard) e quem confere é a **própria página**: seção `conferidor` (motor 7.9.12, `assets/v72-conferidor.js`, regras no JSON). O "pronto quando" cita a resposta literal da página (`OK: …`). Ensaio sem custo = botão "Exemplo que passa" (e "Exemplo com erro" para ver o que a página recusa). Opção para quem tem terminal: `python3 conferir.py <aula> arquivo.txt` (mesmas regras). Nenhuma prática gera vídeo nem gasta crédito: o curso 0 entrega o plano; gerar é do curso 1.
 
@@ -19,7 +19,7 @@ Formação Cinema com IA (curso 0 de 6), INEMA Learning v7.2, PT/EN/ES. Público
 | 7 | decupagem | Do roteiro à decupagem: lista de planos com som e fala | transformar uma cena escrita numa decupagem numerada com tamanho, ângulo, movimento, som e duração de cada plano. | roteiro → arco → planos → câmera → som → tempo | decupagem.txt → `OK: 6 planos com tamanho, ângulo, movimento e som · 20 s` |
 | 8 | storyboard | Seu storyboard: uma cena de 30 s decupada e conferida | juntar cartão, ficha, look e decupagem num storyboard de 30 s conferido pela página, pronto para virar prompt. | mapa da formação (4 degraus) + gerador de plano com datas | storyboard.txt → `OK: storyboard com 8 planos conferidos · 30 s`; pasta com os 4 arquivos |
 
-Cada aula: diagrama primeiro, passos curtos, bloco com copiar (modelo do arquivo), conferidor, prática, teste de 3–5 perguntas comentadas, resumo, links. A aula 8 fecha com `mapa` (4 degraus: cartão, movimento, ficha, decupagem) + `gerador` (as 8 aulas) e aponta, em `links`, para o curso seguinte: `https://inematds.github.io/formacao-cinema-ia-geracao-v72/` (curso 1, ainda não publicado em 19/10/2026).
+Cada aula: diagrama primeiro, passos curtos, bloco com copiar (modelo do arquivo), conferidor, prática, teste de 3–5 perguntas comentadas, resumo, links. A aula 8 fecha com `mapa` (4 degraus: cartão, movimento, ficha, decupagem) + `gerador` (as 8 aulas) e aponta, em `links`, para o curso seguinte: `https://linnoff88-dev.github.io/ (curso 1, ainda não publicado em 19/10/2026).
 
 Donos de assunto (CURRICULO): este curso é dono de plano, ângulo, movimento, luz, composição, ficha (o que é) e decupagem/storyboard. Não ensina gerador, versão nem anatomia de prompt (curso 1), nem som/trilha/montagem/ética a fundo (curso 2): aponta por link.
 

@@ -26,7 +26,7 @@
       "t": "Variar o movimento entre planos vizinhos"
     }
   ],
-  "hero_alt": "Câmera de cinema num carrinho sobre trilhos de travelling, num estúdio escuro, com um braço de grua ao fundo.",
+  "hero_alt": "Câmera de cARCKHÉ num carrinho sobre trilhos de travelling, num estúdio escuro, com um braço de grua ao fundo.",
   "secoes": [
     {
       "tipo": "diagrama",
@@ -63,7 +63,7 @@
           "titulo": "Girar",
           "sub": "volume",
           "icone": "relogio",
-          "detalhe": "Órbita: a câmera dá a volta no sujeito e separa frente, meio e fundo. Volume e sensação de cinema caro. Em inglês, orbit ou arc shot."
+          "detalhe": "Órbita: a câmera dá a volta no sujeito e separa frente, meio e fundo. Volume e sensação de cARCKHÉ caro. Em inglês, orbit ou arc shot."
         },
         {
           "titulo": "Tremer",
@@ -125,7 +125,7 @@
         {
           "rot": "Intenção → movimento → termo do prompt",
           "icone": "lista",
-          "conteudo": "# o que o público deve sentir → movimento → termo do prompt\ntensão, intimidade → aproximação lenta → slow dolly in, push-in\nisolamento, escala → afastamento → dolly out, pull-out\nfluidez, seguir sem cortar → travelling → tracking shot, truck left/right\nrevelar na horizontal → panorâmica → pan left, pan right\nrevelar na vertical → tilt → tilt up/down\ngrandeza, revelar de cima → grua ou pedestal → crane shot, pedestal up\nvolume, cinema caro → órbita → orbit shot, arc shot\nurgência, realismo → câmera na mão → handheld shot\nobservar sem interferir → câmera parada → static shot\ndesorientação → dolly zoom → dolly zoom (vertigo effect)"
+          "conteudo": "# o que o público deve sentir → movimento → termo do prompt\ntensão, intimidade → aproximação lenta → slow dolly in, push-in\nisolamento, escala → afastamento → dolly out, pull-out\nfluidez, seguir sem cortar → travelling → tracking shot, truck left/right\nrevelar na horizontal → panorâmica → pan left, pan right\nrevelar na vertical → tilt → tilt up/down\ngrandeza, revelar de cima → grua ou pedestal → crane shot, pedestal up\nvolume, cARCKHÉ caro → órbita → orbit shot, arc shot\nurgência, realismo → câmera na mão → handheld shot\nobservar sem interferir → câmera parada → static shot\ndesorientação → dolly zoom → dolly zoom (vertigo effect)"
         },
         {
           "rot": "movimentos.txt (modelo)",
@@ -288,7 +288,7 @@
         },
         {
           "t": "Curso 3 · Motion por código: movimento de câmera em vídeo feito com código",
-          "href": "https://inematds.github.io/formacao-cinema-ia-motion-v72/"
+          "href": "https://linnoff88-dev.github.io/
         }
       ]
     }

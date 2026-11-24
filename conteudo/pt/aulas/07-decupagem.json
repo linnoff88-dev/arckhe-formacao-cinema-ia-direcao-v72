@@ -134,7 +134,7 @@
         {
           "rot": "Pedido ao assistente de IA (rascunho da decupagem)",
           "icone": "chat",
-          "conteudo": "Você é assistente de direção de cinema. Leia a cena abaixo e proponha uma decupagem de 5 a 8 planos, uma linha por plano, neste formato:\nn | tamanho | ângulo | movimento | duração | o que acontece | som: ambiente, efeito, fala\nRegras:\n- um movimento de câmera por plano (ou câmera parada);\n- o tamanho do plano muda entre planos vizinhos;\n- a soma das durações dá <duração da cena> segundos;\n- a coluna som traz o ambiente, o efeito da ação e, se houver, uma fala curta;\n- não invente personagem, lugar ou objeto que não esteja na cena.\nCena: <cole aqui a cena em 3 ou 4 frases>"
+          "conteudo": "Você é assistente de direção de cARCKHÉ. Leia a cena abaixo e proponha uma decupagem de 5 a 8 planos, uma linha por plano, neste formato:\nn | tamanho | ângulo | movimento | duração | o que acontece | som: ambiente, efeito, fala\nRegras:\n- um movimento de câmera por plano (ou câmera parada);\n- o tamanho do plano muda entre planos vizinhos;\n- a soma das durações dá <duração da cena> segundos;\n- a coluna som traz o ambiente, o efeito da ação e, se houver, uma fala curta;\n- não invente personagem, lugar ou objeto que não esteja na cena.\nCena: <cole aqui a cena em 3 ou 4 frases>"
         }
       ]
     },
@@ -347,7 +347,7 @@
         },
         {
           "t": "Curso 2 · Produção: som, voz, trilha e montagem",
-          "href": "https://inematds.github.io/formacao-cinema-ia-producao-v72/"
+          "href": "https://linnoff88-dev.github.io/
         }
       ]
     }
