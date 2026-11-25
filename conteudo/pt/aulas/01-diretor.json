@@ -5,8 +5,8 @@
   "titulo": "O diretor e a máquina: o que a IA faz e o que continua sendo seu",
   "titulo_curto": "O diretor e a máquina",
   "minutos": 15,
-  "lead": "O gerador de vídeo de 2026 cria imagem, movimento e som. Ele não sabe o que o público deve sentir nem por que a câmera está ali. Esta aula separa o que a máquina executa do que você decide e fecha com o cartão do diretor da sua cena.",
-  "objetivo": "separar o que você decide do que a IA executa e preencher o cartão do diretor de uma cena antes de gerar qualquer coisa.",
+  "lead": "O gerador de vídeo de 2026 cria imagem, movimento e som. Ele nêo sabe o que o público deve sentir nem por que a câmera está ali. Esta aula separa o que a máquina executa do que você decide e fecha com o cartêo do diretor da sua cena.",
+  "objetivo": "separar o que você decide do que a IA executa e preencher o cartêo do diretor de uma cena antes de gerar qualquer coisa.",
   "competencias": [
     "separar-intencao-de-execucao",
     "definir-ancora-da-cena",
@@ -35,11 +35,11 @@
       "estilo": "fluxo",
       "nos": [
         {
-          "titulo": "Intenção",
+          "titulo": "Intençêo",
           "sub": "você",
           "icone": "usuario",
           "forte": true,
-          "detalhe": "O que o público deve sentir, o que segura o olhar, onde a câmera fica e por quê. Nenhuma atualização de modelo decide isso por você; é o assunto deste curso."
+          "detalhe": "O que o público deve sentir, o que segura o olhar, onde a câmera fica e por quê. Nenhuma atualizaçêo de modelo decide isso por você; é o assunto deste curso."
         },
         {
           "titulo": "Imagem-chave",
@@ -51,19 +51,19 @@
           "titulo": "Vídeo com áudio",
           "sub": "o gerador",
           "icone": "video",
-          "detalhe": "O gerador anima a cena e devolve o som junto. Em out/2026 o áudio nativo é padrão nos principais (Veo 3.1, Kling 3.0, Seedance 2.x, Runway Gen-4.5). Ele executa o que a sua decupagem pede."
+          "detalhe": "O gerador anima a cena e devolve o som junto. Em out/2026 o áudio nativo é padrêo nos principais (Veo 3.1, Kling 3.0, Seedance 2.x, Runway Gen-4.5). Ele executa o que a sua decupagem pede."
         },
         {
           "titulo": "Montagem",
           "sub": "corte e ritmo",
           "icone": "lista",
-          "detalhe": "Ordenar, cortar, acertar cor, trilha e legenda. Ferramentas de IA ajudam; o ritmo continua sendo uma decisão sua (curso 2)."
+          "detalhe": "Ordenar, cortar, acertar cor, trilha e legenda. Ferramentas de IA ajudam; o ritmo continua sendo uma decisêo sua (curso 2)."
         },
         {
           "titulo": "Rótulo",
           "sub": "dizer que é IA",
           "icone": "escudo",
-          "detalhe": "Avisar que o conteúdo foi gerado com IA. Na União Europeia, o AI Act (art. 50) exige rótulo visível em deepfake publicado desde 02/08/2026. Ética e lei ficam com o curso 2, aula 7."
+          "detalhe": "Avisar que o conteúdo foi gerado com IA. Na Uniêo Europeia, o AI Act (art. 50) exige rótulo visível em deepfake publicado desde 02/08/2026. Ética e lei ficam com o curso 2, aula 7."
         }
       ],
       "legenda": "Versões de gerador citadas como exemplo datado (out/2026). A tabela completa e atualizada é do curso 1."
@@ -74,19 +74,19 @@
       "sub": "O exemplo é a cena do curso: Dona Lia abre a padaria do bairro às 4h50.",
       "passos": [
         {
-          "titulo": "A IA executa direção",
-          "sub": "ela não cria intenção",
+          "titulo": "A IA executa direçêo",
+          "sub": "ela nêo cria intençêo",
           "texto": [
-            "A ferramenta gera pixels; quem gera sentido é você. Uma cena sem lógica interna sai bonita e vazia, e modelo novo não conserta isso.",
-            "Intenção tem definição prática: conseguir justificar cada escolha. Se a resposta para \"por que esse ângulo?\" é \"saiu assim\", a cena enfraquece."
+            "A ferramenta gera pixels; quem gera sentido é você. Uma cena sem lógica interna sai bonita e vazia, e modelo novo nêo conserta isso.",
+            "Intençêo tem definiçêo prática: conseguir justificar cada escolha. Se a resposta para \"por que esse ângulo?\" é \"saiu assim\", a cena enfraquece."
           ]
         },
         {
           "titulo": "A âncora da cena",
           "sub": "o que segura o olhar",
           "texto": [
-            "Antes de qualquer imagem, nomeie a âncora em uma frase. Ela muda com o formato e decide ângulo, luz e composição.",
-            "No filme, a âncora é o personagem. No anúncio, é o produto, a ideia ou a transformação. No videoclipe, é o ritmo."
+            "Antes de qualquer imagem, nomeie a âncora em uma frase. Ela muda com o formato e decide ângulo, luz e composiçêo.",
+            "No filme, a âncora é o personagem. No anúncio, é o produto, a ideia ou a transformaçêo. No videoclipe, é o ritmo."
           ],
           "exemplo": {
             "rot": "Âncora da fornada",
@@ -97,16 +97,16 @@
           "titulo": "As quatro perguntas",
           "sub": "antes de gerar",
           "texto": [
-            "Por que este ângulo? Por que este movimento? Por que esta duração? Por que esta luz? Ângulo dá poder ou fragilidade, movimento dá emoção, duração dá peso e luz dá clima.",
-            "Escolha que não se justifica enfraquece a cena. As aulas 2, 3 e 4 aprofundam cada pergunta."
+            "Por que este ângulo? Por que este movimento? Por que esta duraçêo? Por que esta luz? Ângulo dá poder ou fragilidade, movimento dá emoçêo, duraçêo dá peso e luz dá clima.",
+            "Escolha que nêo se justifica enfraquece a cena. As aulas 2, 3 e 4 aprofundam cada pergunta."
           ]
         },
         {
-          "titulo": "A ferramenta muda, a direção fica",
+          "titulo": "A ferramenta muda, a direçêo fica",
           "sub": "o caso Sora",
           "texto": [
             "O app do Sora foi encerrado em 26/04/2026 e a API em 24/09/2026. Ferramenta de vídeo some, troca de nome ou muda de preço.",
-            "Por isso o seu projeto mora numa pasta sua: cartão, ficha, look e decupagem em texto. Com eles, qualquer gerador do momento executa a mesma cena."
+            "Por isso o seu projeto mora numa pasta sua: cartêo, ficha, look e decupagem em texto. Com eles, qualquer gerador do momento executa a mesma cena."
           ]
         }
       ]
@@ -114,26 +114,26 @@
     {
       "tipo": "codigo",
       "titulo": "Modelos para copiar",
-      "sub": "O cartão do diretor e um pedido para o assistente de IA testar as suas escolhas.",
+      "sub": "O cartêo do diretor e um pedido para o assistente de IA testar as suas escolhas.",
       "blocos": [
         {
           "rot": "cartao.txt (modelo)",
           "icone": "arquivo",
-          "conteudo": "Cena: <a cena em uma frase>\nFormato: <filme, anúncio ou clipe, e onde vai passar>\nÂncora: <o que segura o olhar: personagem, produto ou ritmo>\nEmoção: <o que o público deve sentir>\nÂngulo: <qual e por quê>\nMovimento: <qual e por quê>\nDuração: <quanto tempo cada plano dura e por quê>\nLuz: <qual e por quê>"
+          "conteudo": "Cena: <a cena em uma frase>\nFormato: <filme, anúncio ou clipe, e onde vai passar>\nÂncora: <o que segura o olhar: personagem, produto ou ritmo>\nEmoçêo: <o que o público deve sentir>\nÂngulo: <qual e por quê>\nMovimento: <qual e por quê>\nDuraçêo: <quanto tempo cada plano dura e por quê>\nLuz: <qual e por quê>"
         },
         {
           "rot": "Pedido ao assistente de IA (as perguntas de diretor)",
           "icone": "chat",
-          "conteudo": "Leia o meu cartão do diretor abaixo. Para cada campo Ângulo, Movimento, Duração e Luz, faça uma pergunta que me obrigue a justificar a escolha pelo que o público deve sentir. Não sugira respostas e não reescreva o cartão; só pergunte.\nCartão:\n<cole aqui o seu cartão>"
+          "conteudo": "Leia o meu cartêo do diretor abaixo. Para cada campo Ângulo, Movimento, Duraçêo e Luz, faça uma pergunta que me obrigue a justificar a escolha pelo que o público deve sentir. Nêo sugira respostas e nêo reescreva o cartêo; só pergunte.\nCartêo:\n<cole aqui o seu cartêo>"
         }
       ]
     },
     {
       "tipo": "conferidor",
-      "titulo": "Confira o seu cartão",
+      "titulo": "Confira o seu cartêo",
       "sub": "Teste antes com o exemplo que passa e com o exemplo com erro. Depois cole o seu.",
       "arquivo": "cartao.txt",
-      "rot": "Cole aqui o seu cartão do diretor (um campo por linha):",
+      "rot": "Cole aqui o seu cartêo do diretor (um campo por linha):",
       "modelo": "Cena: ...\nFormato: ...\nÂncora: ...",
       "regras": [
         {
@@ -143,10 +143,10 @@
             "Cena",
             "Formato",
             "Âncora",
-            "Emoção",
+            "Emoçêo",
             "Ângulo",
             "Movimento",
-            "Duração",
+            "Duraçêo",
             "Luz"
           ]
         },
@@ -167,9 +167,9 @@
           ]
         }
       ],
-      "ok": "OK: cartão com {n} campos preenchidos",
-      "exemplo": "Cena: Dona Lia abre a padaria do bairro antes de a cidade acordar.\nFormato: filme curto de 30 s para a página da padaria\nÂncora: Dona Lia; tudo serve ao orgulho silencioso dela\nEmoção: orgulho e aconchego de quem chega primeiro\nÂngulo: altura do olho quase sempre, para o público ficar ao lado dela, sem julgar\nMovimento: pouco e lento, acompanhando o trabalho; câmera parada no forno\nDuração: planos de 3 a 4 s; a cena respira, não corre\nLuz: só a padaria acesa na rua escura; o forno é a fonte mais quente",
-      "exemplo_errado": "Cena: padaria de manhã\nFormato: vídeo\nÂncora: a padaria\nÂngulo: baixo\nMovimento: drone, órbita e zoom\nDuração: 30 s"
+      "ok": "OK: cartêo com {n} campos preenchidos",
+      "exemplo": "Cena: Dona Lia abre a padaria do bairro antes de a cidade acordar.\nFormato: filme curto de 30 s para a página da padaria\nÂncora: Dona Lia; tudo serve ao orgulho silencioso dela\nEmoçêo: orgulho e aconchego de quem chega primeiro\nÂngulo: altura do olho quase sempre, para o público ficar ao lado dela, sem julgar\nMovimento: pouco e lento, acompanhando o trabalho; câmera parada no forno\nDuraçêo: planos de 3 a 4 s; a cena respira, nêo corre\nLuz: só a padaria acesa na rua escura; o forno é a fonte mais quente",
+      "exemplo_errado": "Cena: padaria de manhê\nFormato: vídeo\nÂncora: a padaria\nÂngulo: baixo\nMovimento: drone, órbita e zoom\nDuraçêo: 30 s"
     },
     {
       "tipo": "pratica",
@@ -178,16 +178,16 @@
       "exercicios": [
         {
           "id": "e1",
-          "titulo": "Cartão · a sua cena",
+          "titulo": "Cartêo · a sua cena",
           "min": "15 min",
-          "texto": "Preencha o cartão do diretor da sua cena, com o porquê em Ângulo, Movimento, Duração e Luz. Se quiser, passe pelo pedido ao assistente e ajuste as respostas fracas. Cole o cartão na seção \"Confira o seu cartão\".",
-          "pronto": "a página responde <code>OK: cartão com 8 campos preenchidos</code> para o seu texto."
+          "texto": "Preencha o cartêo do diretor da sua cena, com o porquê em Ângulo, Movimento, Duraçêo e Luz. Se quiser, passe pelo pedido ao assistente e ajuste as respostas fracas. Cole o cartêo na seçêo \"Confira o seu cartêo\".",
+          "pronto": "a página responde <code>OK: cartêo com 8 campos preenchidos</code> para o seu texto."
         },
         {
           "id": "e2",
           "titulo": "Pasta · o projeto fora da plataforma",
           "min": "5 min",
-          "texto": "Crie uma pasta com o nome da sua cena (no computador ou na nuvem) e salve nela o cartao.txt pelo botão \"Baixar o arquivo\". As próximas aulas acrescentam escada, movimentos, look, quadros, ficha e decupagem a essa pasta.",
+          "texto": "Crie uma pasta com o nome da sua cena (no computador ou na nuvem) e salve nela o cartao.txt pelo botêo \"Baixar o arquivo\". As próximas aulas acrescentam escada, movimentos, look, quadros, ficha e decupagem a essa pasta.",
           "pronto": "a pasta existe e o cartao.txt dentro dela abre num editor de texto comum, com os 8 campos."
         }
       ]
@@ -195,18 +195,18 @@
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "Quatro perguntas. A explicação aparece depois de cada resposta.",
+      "sub": "Quatro perguntas. A explicaçêo aparece depois de cada resposta.",
       "perguntas": [
         {
           "p": "O que continua sendo seu, mesmo com o melhor gerador de out/2026?",
           "opcoes": [
-            "A renderização de cada quadro em alta resolução.",
+            "A renderizaçêo de cada quadro em alta resoluçêo.",
             "A sincronia da fala com o movimento da boca.",
             "O que o público sente e por que a câmera está ali.",
-            "A criação do som ambiente que acompanha o plano."
+            "A criaçêo do som ambiente que acompanha o plano."
           ],
           "certa": 2,
-          "explica": "Render, sincronia de fala e som ambiente o gerador faz. Intenção não: o que o público deve sentir e o porquê de cada escolha de câmera continuam com quem dirige.",
+          "explica": "Render, sincronia de fala e som ambiente o gerador faz. Intençêo nêo: o que o público deve sentir e o porquê de cada escolha de câmera continuam com quem dirige.",
           "ref": "diagrama"
         },
         {
@@ -218,7 +218,7 @@
             "A cozinha, porque o lugar dá credibilidade."
           ],
           "certa": 0,
-          "explica": "No anúncio, a âncora é o produto, a ideia ou a transformação. Personagem é a âncora do filme; ritmo é a do videoclipe. A confeiteira pode aparecer, mas serve ao bolo.",
+          "explica": "No anúncio, a âncora é o produto, a ideia ou a transformaçêo. Personagem é a âncora do filme; ritmo é a do videoclipe. A confeiteira pode aparecer, mas serve ao bolo.",
           "ref": "passos"
         },
         {
@@ -226,18 +226,18 @@
           "opcoes": [
             "Que só vale usar gerador de código aberto.",
             "Que é melhor esperar o mercado parar de mudar.",
-            "Que vídeo com IA não serve para trabalho sério.",
+            "Que vídeo com IA nêo serve para trabalho sério.",
             "Que roteiro, referências e prompts moram fora da plataforma."
           ],
           "certa": 3,
-          "explica": "Ferramenta some. O que sobrevive é a direção escrita: com cartão, ficha, look e decupagem numa pasta sua, a mesma cena vai para o gerador que estiver disponível.",
+          "explica": "Ferramenta some. O que sobrevive é a direçêo escrita: com cartêo, ficha, look e decupagem numa pasta sua, a mesma cena vai para o gerador que estiver disponível.",
           "ref": "passos"
         },
         {
-          "p": "\"Planos de 3 a 4 s; a cena respira, não corre.\" Qual pergunta de diretor esta frase responde?",
+          "p": "\"Planos de 3 a 4 s; a cena respira, nêo corre.\" Qual pergunta de diretor esta frase responde?",
           "opcoes": [
             "Por que este ângulo?",
-            "Por que esta duração?",
+            "Por que esta duraçêo?",
             "Por que este movimento?",
             "Por que esta luz?"
           ],
@@ -253,15 +253,15 @@
       "itens": [
         {
           "t": "A máquina executa",
-          "texto": "Imagem, movimento e som saem do gerador. Intenção e justificativa saem de você."
+          "texto": "Imagem, movimento e som saem do gerador. Intençêo e justificativa saem de você."
         },
         {
           "t": "Âncora primeiro",
-          "texto": "Filme: personagem. Anúncio: produto ou transformação. Clipe: ritmo."
+          "texto": "Filme: personagem. Anúncio: produto ou transformaçêo. Clipe: ritmo."
         },
         {
           "t": "Projeto portátil",
-          "texto": "Cartão e decupagem em texto, numa pasta sua, valem para qualquer gerador."
+          "texto": "Cartêo e decupagem em texto, numa pasta sua, valem para qualquer gerador."
         }
       ]
     },
@@ -270,15 +270,15 @@
       "titulo": "Para ir além",
       "links": [
         {
-          "t": "Curso 1 · Geração: os geradores de out/2026 e como escolher",
+          "t": "Curso 1 · Geraçêo: os geradores de out/2026 e como escolher",
           "href": "https://linnoff88-dev.github.io/
         },
         {
-          "t": "Curso 2 · Produção: ética, rótulo e direito de imagem (aula 7)",
+          "t": "Curso 2 · Produçêo: ética, rótulo e direito de imagem (aula 7)",
           "href": "https://linnoff88-dev.github.io/
         },
         {
-          "t": "Comissão Europeia: código de prática para rotular conteúdo gerado por IA",
+          "t": "Comissêo Europeia: código de prática para rotular conteúdo gerado por IA",
           "href": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content"
         }
       ]

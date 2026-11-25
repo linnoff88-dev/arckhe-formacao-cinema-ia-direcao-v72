@@ -5,8 +5,8 @@
   "titulo": "Do roteiro à decupagem: lista de planos com som e fala",
   "titulo_curto": "Decupagem com som",
   "minutos": 18,
-  "lead": "Decupar é cortar a cena escrita em planos numerados, cada um com câmera, tempo e som. Em 2026 o som entrou na lista: os geradores de vídeo devolvem o áudio junto com a imagem, então o que se ouve em cada plano também é decisão de direção.",
-  "objetivo": "transformar uma cena escrita numa decupagem numerada com tamanho, ângulo, movimento, som e duração de cada plano.",
+  "lead": "Decupar é cortar a cena escrita em planos numerados, cada um com câmera, tempo e som. Em 2026 o som entrou na lista: os geradores de vídeo devolvem o áudio junto com a imagem, entêo o que se ouve em cada plano também é decisêo de direçêo.",
+  "objetivo": "transformar uma cena escrita numa decupagem numerada com tamanho, ângulo, movimento, som e duraçêo de cada plano.",
   "competencias": [
     "decupar-cena",
     "planejar-som-por-plano",
@@ -17,7 +17,7 @@
       "t": "Escrever a cena em três ou quatro frases, com começo, virada e fim"
     },
     {
-      "t": "Cortar a cena em planos numerados com câmera e duração"
+      "t": "Cortar a cena em planos numerados com câmera e duraçêo"
     },
     {
       "t": "Pôr na lista o som de cada plano: ambiente, efeito e fala"
@@ -26,7 +26,7 @@
       "t": "Conferir a decupagem na própria página antes de gerar"
     }
   ],
-  "hero_alt": "Mesa escura vista de cima com folhas de lista de planos preenchidas à mão, um lápis, uma claquete fechada e um cronômetro.",
+  "hero_alt": "Mesa escura vista de cima com folhas de lista de planos preenchidas à mêo, um lápis, uma claquete fechada e um cronômetro.",
   "secoes": [
     {
       "tipo": "diagrama",
@@ -38,13 +38,13 @@
           "titulo": "Roteiro",
           "sub": "3–4 frases",
           "icone": "caneta",
-          "detalhe": "A cena em três ou quatro frases: quem, onde, o que acontece e como termina. Se você não consegue escrever a cena em quatro frases, ela ainda não está pronta para virar planos."
+          "detalhe": "A cena em três ou quatro frases: quem, onde, o que acontece e como termina. Se você nêo consegue escrever a cena em quatro frases, ela ainda nêo está pronta para virar planos."
         },
         {
           "titulo": "Arco",
           "sub": "abre e fecha",
           "icone": "camadas",
-          "detalhe": "Apresentação, virada e fechamento. Na cena curta, o arco cabe em segundos: o primeiro plano diz onde estamos, o do meio traz a mudança, o último deixa uma imagem que funciona parada."
+          "detalhe": "Apresentaçêo, virada e fechamento. Na cena curta, o arco cabe em segundos: o primeiro plano diz onde estamos, o do meio traz a mudança, o último deixa uma imagem que funciona parada."
         },
         {
           "titulo": "Planos",
@@ -57,19 +57,19 @@
           "titulo": "Câmera",
           "sub": "tamanho, ângulo, movimento",
           "icone": "video",
-          "detalhe": "Tamanho e ângulo (aula 2) e um movimento só (aula 3). A variação de tamanho entre planos vizinhos é o que dá ritmo."
+          "detalhe": "Tamanho e ângulo (aula 2) e um movimento só (aula 3). A variaçêo de tamanho entre planos vizinhos é o que dá ritmo."
         },
         {
           "titulo": "Som",
           "sub": "ambiente, efeito, fala",
           "icone": "megafone",
-          "detalhe": "O que se ouve no plano: o ambiente do lugar, o efeito da ação e a fala, se houver. Escrito por plano, ele entra no prompt em frase separada."
+          "detalhe": "O que se ouve no plano: o ambiente do lugar, o efeito da açêo e a fala, se houver. Escrito por plano, ele entra no prompt em frase separada."
         },
         {
           "titulo": "Tempo",
           "sub": "segundos",
           "icone": "relogio",
-          "detalhe": "A duração de cada plano. A soma tem de dar a duração da cena; plano de contemplação dura mais, plano de ação dura menos."
+          "detalhe": "A duraçêo de cada plano. A soma tem de dar a duraçêo da cena; plano de contemplaçêo dura mais, plano de açêo dura menos."
         }
       ],
       "legenda": "A ordem importa: decidir o som antes do tempo evita plano curto demais para a fala caber."
@@ -93,9 +93,9 @@
         },
         {
           "titulo": "O arco em três tempos",
-          "sub": "apresentação, virada, fechamento",
+          "sub": "apresentaçêo, virada, fechamento",
           "texto": [
-            "A convenção dos três atos dá uma proporção de guia: um quarto da cena para apresentar, metade para a tensão e a virada, um quarto para fechar.",
+            "A convençêo dos três atos dá uma proporçêo de guia: um quarto da cena para apresentar, metade para a tensêo e a virada, um quarto para fechar.",
             "Abrir aberto e fechar com uma imagem forte dá começo e fim. Pausado no último segundo, o quadro final tem de funcionar sozinho."
           ]
         },
@@ -113,10 +113,10 @@
         },
         {
           "titulo": "Fala curta, com subtexto",
-          "sub": "o que não se diz pesa mais",
+          "sub": "o que nêo se diz pesa mais",
           "texto": [
-            "Fala de vídeo curto é uma frase. O personagem não explica o que sente: \"Já vai!\" diz rotina e orgulho sem nomear nenhum dos dois.",
-            "Silêncio também é som. Um plano só com o ambiente antes da fala dá peso a ela. Trilha, voz e mixagem são assunto do curso 2."
+            "Fala de vídeo curto é uma frase. O personagem nêo explica o que sente: \"Já vai!\" diz rotina e orgulho sem nomear nenhum dos dois.",
+            "Silêncio também é som. Um plano só com o ambiente antes da fala dá peso a ela. Trilha, voz e mixagem sêo assunto do curso 2."
           ]
         }
       ]
@@ -129,12 +129,12 @@
         {
           "rot": "decupagem.txt (modelo)",
           "icone": "arquivo",
-          "conteudo": "Cena: <nome da cena> (<duração> s)\nRoteiro: <a cena em 3 ou 4 frases>\n# n | tamanho | ângulo | movimento | duração | o que acontece | som: ambiente, efeito, fala\n1 | <tamanho> | <ângulo> | <um movimento> | <n> s | <ação do plano> | som: <o que se ouve>\n2 | <tamanho> | <ângulo> | <um movimento> | <n> s | <ação do plano> | som: <o que se ouve>"
+          "conteudo": "Cena: <nome da cena> (<duraçêo> s)\nRoteiro: <a cena em 3 ou 4 frases>\n# n | tamanho | ângulo | movimento | duraçêo | o que acontece | som: ambiente, efeito, fala\n1 | <tamanho> | <ângulo> | <um movimento> | <n> s | <açêo do plano> | som: <o que se ouve>\n2 | <tamanho> | <ângulo> | <um movimento> | <n> s | <açêo do plano> | som: <o que se ouve>"
         },
         {
           "rot": "Pedido ao assistente de IA (rascunho da decupagem)",
           "icone": "chat",
-          "conteudo": "Você é assistente de direção de cARCKHÉ. Leia a cena abaixo e proponha uma decupagem de 5 a 8 planos, uma linha por plano, neste formato:\nn | tamanho | ângulo | movimento | duração | o que acontece | som: ambiente, efeito, fala\nRegras:\n- um movimento de câmera por plano (ou câmera parada);\n- o tamanho do plano muda entre planos vizinhos;\n- a soma das durações dá <duração da cena> segundos;\n- a coluna som traz o ambiente, o efeito da ação e, se houver, uma fala curta;\n- não invente personagem, lugar ou objeto que não esteja na cena.\nCena: <cole aqui a cena em 3 ou 4 frases>"
+          "conteudo": "Você é assistente de direçêo de cARCKHÉ. Leia a cena abaixo e proponha uma decupagem de 5 a 8 planos, uma linha por plano, neste formato:\nn | tamanho | ângulo | movimento | duraçêo | o que acontece | som: ambiente, efeito, fala\nRegras:\n- um movimento de câmera por plano (ou câmera parada);\n- o tamanho do plano muda entre planos vizinhos;\n- a soma das durações dá <duraçêo da cena> segundos;\n- a coluna som traz o ambiente, o efeito da açêo e, se houver, uma fala curta;\n- nêo invente personagem, lugar ou objeto que nêo esteja na cena.\nCena: <cole aqui a cena em 3 ou 4 frases>"
         }
       ]
     },
@@ -174,7 +174,7 @@
                 "câmera alta / plongée / high angle / high-angle / cámara alta / picado / high camera",
                 "câmera baixa / contra-plongée / contraplongée / low angle / low-angle / low camera / cámara baja / contrapicado / contra-picado",
                 "zenital / plano zenital / top shot / top-down / bird's-eye / overhead / overhead shot / cenital / plano cenital",
-                "rente ao chão / worm's-eye / ground level / a ras del suelo",
+                "rente ao chêo / worm's-eye / ground level / a ras del suelo",
                 "holandês / ângulo holandês / dutch angle / holandés / ángulo holandés",
                 "por cima do ombro / over-the-shoulder / over the shoulder / sobre el hombro / por encima del hombro",
                 "ponto de vista / câmera subjetiva / pov / point of view / punto de vista / cámara subjetiva"
@@ -185,14 +185,14 @@
               "um_so": true,
               "termos": [
                 "câmera parada / câmera fixa / plano fixo / static shot / static camera / still camera / fixed camera / locked-off shot / cámara fija / cámara quieta / plano fijo / locked-off camera / locked camera",
-                "dolly in / push-in / aproximação lenta / slow push-in / acercamiento lento",
+                "dolly in / push-in / aproximaçêo lenta / slow push-in / acercamiento lento",
                 "dolly out / pull-out / afastamento lento / alejamiento lento",
                 "travelling lateral / travelling / tracking shot / truck / dolly lateral / tracking / side tracking shot / lateral tracking shot",
                 "panorâmica / panning shot / panorámica / pan left / pan right / pan shot",
                 "tilt / tilt up / tilt down",
                 "grua / crane / pedestal up / pedestal down / crane shot / grúa",
                 "órbita / orbit / arc shot / orbit shot",
-                "câmera na mão / handheld / handheld camera / cámara en mano",
+                "câmera na mêo / handheld / handheld camera / cámara en mano",
                 "zoom in / zoom out / zoom / crash zoom",
                 "dolly zoom / efeito vertigo / vertigo effect / efecto vértigo",
                 "whip pan / chicote / swish pan / latigazo",
@@ -215,13 +215,13 @@
         }
       ],
       "ok": "OK: {n} planos com tamanho, ângulo, movimento e som · {s} s",
-      "exemplo": "Cena: A primeira fornada (20 s)\nRoteiro: 4h50, padaria de bairro ainda fechada. Dona Lia prepara a massa sozinha. A primeira fornada sai do forno. Alguém bate na porta de ferro e ela abre para o primeiro cliente.\n# n | tamanho | ângulo | movimento | duração | o que acontece | som\n1 | plano geral | câmera alta | câmera parada | 3 s | Rua escura; só a vitrine da padaria acesa. | som: vento, um cachorro ao longe\n2 | plano médio | altura do olho | travelling lateral | 4 s | Dona Lia sova a massa na bancada. | som: rádio baixo, massa batendo na mesa\n3 | close | câmera baixa | dolly in | 3 s | A porta do forno abre e o vapor sobe. | som: rangido do forno, chiado\n4 | plano detalhe | zenital | câmera parada | 3 s | A pá tira a primeira fornada. | som: casca estalando\n5 | close | altura do olho | câmera na mão | 3 s | Batidas na porta de ferro; ela olha o relógio e sorri. | som: três batidas; fala: \"Já vai!\"\n6 | plano aberto | altura do olho | dolly out | 4 s | Ela sobe a porta e o primeiro cliente entra. | som: porta de ferro subindo, sino da porta",
-      "exemplo_errado": "Cena: A primeira fornada (20 s)\n1 | plano geral | câmera alta | câmera parada | 3 s | Rua escura; só a vitrine acesa. | som: vento\n2 | plano médio | altura do olho | travelling lateral | 4 s | Dona Lia sova a massa. | som: rádio baixo\n3 | close | câmera baixa | dolly in com zoom in | 3 s | A porta do forno abre. | som: rangido do forno\n4 | plano detalhe | zenital | câmera parada | 3 s | A pá tira a fornada.\n5 | close | altura do olho | câmera na mão | Batidas na porta de ferro. | som: três batidas"
+      "exemplo": "Cena: A primeira fornada (20 s)\nRoteiro: 4h50, padaria de bairro ainda fechada. Dona Lia prepara a massa sozinha. A primeira fornada sai do forno. Alguém bate na porta de ferro e ela abre para o primeiro cliente.\n# n | tamanho | ângulo | movimento | duraçêo | o que acontece | som\n1 | plano geral | câmera alta | câmera parada | 3 s | Rua escura; só a vitrine da padaria acesa. | som: vento, um cachorro ao longe\n2 | plano médio | altura do olho | travelling lateral | 4 s | Dona Lia sova a massa na bancada. | som: rádio baixo, massa batendo na mesa\n3 | close | câmera baixa | dolly in | 3 s | A porta do forno abre e o vapor sobe. | som: rangido do forno, chiado\n4 | plano detalhe | zenital | câmera parada | 3 s | A pá tira a primeira fornada. | som: casca estalando\n5 | close | altura do olho | câmera na mêo | 3 s | Batidas na porta de ferro; ela olha o relógio e sorri. | som: três batidas; fala: \"Já vai!\"\n6 | plano aberto | altura do olho | dolly out | 4 s | Ela sobe a porta e o primeiro cliente entra. | som: porta de ferro subindo, sino da porta",
+      "exemplo_errado": "Cena: A primeira fornada (20 s)\n1 | plano geral | câmera alta | câmera parada | 3 s | Rua escura; só a vitrine acesa. | som: vento\n2 | plano médio | altura do olho | travelling lateral | 4 s | Dona Lia sova a massa. | som: rádio baixo\n3 | close | câmera baixa | dolly in com zoom in | 3 s | A porta do forno abre. | som: rangido do forno\n4 | plano detalhe | zenital | câmera parada | 3 s | A pá tira a fornada.\n5 | close | altura do olho | câmera na mêo | Batidas na porta de ferro. | som: três batidas"
     },
     {
       "tipo": "codigo",
       "titulo": "Opcional: conferir no terminal",
-      "sub": "Só para quem já usa terminal. Baixe o curso do GitHub e rode na pasta dele: as regras são as mesmas da página. Para o seu arquivo, troque <code>--exemplo</code> pelo nome dele (<code>decupagem.txt</code>); sai 0 quando passa.",
+      "sub": "Só para quem já usa terminal. Baixe o curso do GitHub e rode na pasta dele: as regras sêo as mesmas da página. Para o seu arquivo, troque <code>--exemplo</code> pelo nome dele (<code>decupagem.txt</code>); sai 0 quando passa.",
       "blocos": [
         {
           "rot": "Terminal (na pasta do curso)",
@@ -238,7 +238,7 @@
           },
           {
             "rot": "Exemplo com erro (19/10/2026)",
-            "html": "<pre>$ python3 conferir.py decupagem --errado; echo \"saída: $?\"\nAinda não. O que falta:\n - Plano 3: 2 escolhas de movimento; fique com uma só.\n - Plano 4: falta a coluna som.\n - Plano 5: falta a duração em segundos (ex.: 4 s).\n - Os planos somam 13 s; o pedido é de 16 a 24 s.\nsaída: 1</pre>"
+            "html": "<pre>$ python3 conferir.py decupagem --errado; echo \"saída: $?\"\nAinda nêo. O que falta:\n - Plano 3: 2 escolhas de movimento; fique com uma só.\n - Plano 4: falta a coluna som.\n - Plano 5: falta a duraçêo em segundos (ex.: 4 s).\n - Os planos somam 13 s; o pedido é de 16 a 24 s.\nsaída: 1</pre>"
           }
         ]
       }
@@ -246,13 +246,13 @@
     {
       "tipo": "pratica",
       "titulo": "Prática",
-      "sub": "Uma cena sua, de uns 20 segundos. Pode partir do rascunho do assistente, mas a decisão final é sua.",
+      "sub": "Uma cena sua, de uns 20 segundos. Pode partir do rascunho do assistente, mas a decisêo final é sua.",
       "exercicios": [
         {
           "id": "e1",
           "titulo": "Decupagem · a sua cena de 20 s",
           "min": "25 min",
-          "texto": "Escreva a cena em quatro frases e decupe em 5 a 8 planos no formato do modelo: tamanho, ângulo, um movimento, duração e a coluna som. Cole na seção \"Confira a sua decupagem\" e use \"Baixar o arquivo\" para guardar o decupagem.txt na pasta do seu projeto.",
+          "texto": "Escreva a cena em quatro frases e decupe em 5 a 8 planos no formato do modelo: tamanho, ângulo, um movimento, duraçêo e a coluna som. Cole na seçêo \"Confira a sua decupagem\" e use \"Baixar o arquivo\" para guardar o decupagem.txt na pasta do seu projeto.",
           "pronto": "a página responde <code>OK: [n] planos com tamanho, ângulo, movimento e som · [s] s</code> para o seu texto, com a soma entre 16 e 24 s, e o decupagem.txt está na pasta do projeto."
         },
         {
@@ -267,27 +267,27 @@
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "Quatro perguntas. A explicação aparece depois de cada resposta.",
+      "sub": "Quatro perguntas. A explicaçêo aparece depois de cada resposta.",
       "perguntas": [
         {
           "p": "Por que a decupagem de 2026 tem uma coluna de som em cada plano?",
           "opcoes": [
             "Porque a trilha sonora precisa ser escolhida antes da cena escrita.",
             "Porque os geradores de vídeo passaram a devolver o áudio junto com a imagem.",
-            "Porque o gerador só aceita prompt que começa pela descrição do som.",
-            "Porque sem a coluna de som a duração dos planos não fecha a conta."
+            "Porque o gerador só aceita prompt que começa pela descriçêo do som.",
+            "Porque sem a coluna de som a duraçêo dos planos nêo fecha a conta."
           ],
           "certa": 1,
-          "explica": "Áudio nativo virou padrão em 2026: ambiente, efeito e fala saem no mesmo passe. Se o som sai junto, ele precisa ser decidido junto, plano a plano. Trilha é escolha de montagem (curso 2), não pré-requisito da cena.",
+          "explica": "Áudio nativo virou padrêo em 2026: ambiente, efeito e fala saem no mesmo passe. Se o som sai junto, ele precisa ser decidido junto, plano a plano. Trilha é escolha de montagem (curso 2), nêo pré-requisito da cena.",
           "ref": "passos"
         },
         {
           "p": "Um plano da sua lista diz \"dolly in com zoom in\". O que a página responde e por quê?",
           "opcoes": [
             "Aceita, porque dois movimentos juntos deixam o plano mais dinâmico.",
-            "Aceita, desde que a duração do plano passe de cinco segundos.",
-            "Recusa: cada plano pede um movimento só, numa direção clara.",
-            "Recusa, porque zoom não é movimento de câmera e não pode aparecer."
+            "Aceita, desde que a duraçêo do plano passe de cinco segundos.",
+            "Recusa: cada plano pede um movimento só, numa direçêo clara.",
+            "Recusa, porque zoom nêo é movimento de câmera e nêo pode aparecer."
           ],
           "certa": 2,
           "explica": "Um movimento por plano: empilhar movimentos faz a câmera brigar consigo mesma e o resultado sai instável. Zoom é um movimento de lente e é válido sozinho; o problema é a soma dos dois.",
@@ -302,19 +302,19 @@
             "\"Eu adoro quando o primeiro cliente chega cedo.\""
           ],
           "certa": 0,
-          "explica": "Subtexto é o sentimento por baixo de uma fala comum. As outras três nomeiam o que a personagem sente, e a cena perde a tensão. A fala curta ainda cabe no tempo do plano.",
+          "explica": "Subtexto é o sentimento por baixo de uma fala comum. As outras três nomeiam o que a personagem sente, e a cena perde a tensêo. A fala curta ainda cabe no tempo do plano.",
           "ref": "passos"
         },
         {
           "p": "A sua cena tem 20 s e os planos somam 31 s. O que fazer primeiro?",
           "opcoes": [
-            "Mudar a duração da cena para 31 s, sem mexer nos planos.",
-            "Apagar a coluna de som para ganhar tempo na geração.",
+            "Mudar a duraçêo da cena para 31 s, sem mexer nos planos.",
+            "Apagar a coluna de som para ganhar tempo na geraçêo.",
             "Trocar todos os tamanhos de plano por planos abertos.",
-            "Encurtar os planos de ação e cortar o que repete outro."
+            "Encurtar os planos de açêo e cortar o que repete outro."
           ],
           "certa": 3,
-          "explica": "A duração da cena é decisão de direção; a lista é que se ajusta a ela. Plano de ação aguenta menos tempo, e plano que repete a ideia do vizinho é o primeiro a sair.",
+          "explica": "A duraçêo da cena é decisêo de direçêo; a lista é que se ajusta a ela. Plano de açêo aguenta menos tempo, e plano que repete a ideia do vizinho é o primeiro a sair.",
           "ref": "diagrama"
         }
       ]
@@ -325,14 +325,14 @@
       "itens": [
         {
           "t": "Cena antes de câmera",
-          "texto": "Quatro frases e a emoção do público. Sem isso, a lista de planos não tem para onde ir."
+          "texto": "Quatro frases e a emoçêo do público. Sem isso, a lista de planos nêo tem para onde ir."
         },
         {
           "t": "Uma linha por plano",
-          "texto": "Tamanho, ângulo, um movimento, duração, ação e som. A soma dá a duração da cena."
+          "texto": "Tamanho, ângulo, um movimento, duraçêo, açêo e som. A soma dá a duraçêo da cena."
         },
         {
-          "t": "Som é decisão",
+          "t": "Som é decisêo",
           "texto": "Ambiente, efeito e fala por plano, porque o áudio sai junto com a imagem."
         }
       ]
@@ -342,11 +342,11 @@
       "titulo": "Para ir além",
       "links": [
         {
-          "t": "Guia oficial de prompt de vídeo do Google (Veo e Gemini Omni Flash): seção de áudio",
+          "t": "Guia oficial de prompt de vídeo do Google (Veo e Gemini Omni Flash): seçêo de áudio",
           "href": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/video/video-gen-prompt-guide"
         },
         {
-          "t": "Curso 2 · Produção: som, voz, trilha e montagem",
+          "t": "Curso 2 · Produçêo: som, voz, trilha e montagem",
           "href": "https://linnoff88-dev.github.io/
         }
       ]

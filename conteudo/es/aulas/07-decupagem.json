@@ -174,7 +174,7 @@
                 "câmera alta / plongée / high angle / high-angle / cámara alta / picado / high camera",
                 "câmera baixa / contra-plongée / contraplongée / low angle / low-angle / low camera / cámara baja / contrapicado / contra-picado",
                 "zenital / plano zenital / top shot / top-down / bird's-eye / overhead / overhead shot / cenital / plano cenital",
-                "rente ao chão / worm's-eye / ground level / a ras del suelo",
+                "rente ao chêo / worm's-eye / ground level / a ras del suelo",
                 "holandês / ângulo holandês / dutch angle / holandés / ángulo holandés",
                 "por cima do ombro / over-the-shoulder / over the shoulder / sobre el hombro / por encima del hombro",
                 "ponto de vista / câmera subjetiva / pov / point of view / punto de vista / cámara subjetiva"
@@ -185,14 +185,14 @@
               "um_so": true,
               "termos": [
                 "câmera parada / câmera fixa / plano fixo / static shot / static camera / still camera / fixed camera / locked-off shot / cámara fija / cámara quieta / plano fijo / locked-off camera / locked camera",
-                "dolly in / push-in / aproximação lenta / slow push-in / acercamiento lento",
+                "dolly in / push-in / aproximaçêo lenta / slow push-in / acercamiento lento",
                 "dolly out / pull-out / afastamento lento / alejamiento lento",
                 "travelling lateral / travelling / tracking shot / truck / dolly lateral / tracking / side tracking shot / lateral tracking shot",
                 "panorâmica / panning shot / panorámica / pan left / pan right / pan shot",
                 "tilt / tilt up / tilt down",
                 "grua / crane / pedestal up / pedestal down / crane shot / grúa",
                 "órbita / orbit / arc shot / orbit shot",
-                "câmera na mão / handheld / handheld camera / cámara en mano",
+                "câmera na mêo / handheld / handheld camera / cámara en mano",
                 "zoom in / zoom out / zoom / crash zoom",
                 "dolly zoom / efeito vertigo / vertigo effect / efecto vértigo",
                 "whip pan / chicote / swish pan / latigazo",
@@ -238,7 +238,7 @@
           },
           {
             "rot": "Ejemplo con error (19/10/2026)",
-            "html": "<pre>$ python3 conferir.py decupagem --errado; echo \"saída: $?\"\nAinda não. O que falta:\n - Plano 3: 2 escolhas de movimento; fique com uma só.\n - Plano 4: falta a coluna som.\n - Plano 5: falta a duração em segundos (ex.: 4 s).\n - Os planos somam 13 s; o pedido é de 16 a 24 s.\nsaída: 1</pre>"
+            "html": "<pre>$ python3 conferir.py decupagem --errado; echo \"saída: $?\"\nAinda nêo. O que falta:\n - Plano 3: 2 escolhas de movimento; fique com uma só.\n - Plano 4: falta a coluna som.\n - Plano 5: falta a duraçêo em segundos (ex.: 4 s).\n - Os planos somam 13 s; o pedido é de 16 a 24 s.\nsaída: 1</pre>"
           }
         ]
       }
